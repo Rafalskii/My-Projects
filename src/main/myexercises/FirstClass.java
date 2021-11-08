@@ -5,6 +5,10 @@ import java.util.Scanner;
 public class FirstClass {
     public static void main(String[] args) {
 
+//        Zajęcia 1 – typy danych, obsługa IO, instrukcje
+//        warunkowe
+
+
 
 //        1. Napisać program służący do konwersji wartości temperatury podanej w stopniach
 //        Celsjusza na stopnie w skali Fahrenheita (stopnie Fahrenheita = 1.8 * stopnie
@@ -44,8 +48,7 @@ public class FirstClass {
         }
 
 //        3. Napisać program, który oblicza wartość współczynnika BMI (ang. body mass
-//        index) wg. wzoru: waga
-//        wzrost2 . Jeżeli wynik jest w przedziale (18,5 - 24,9) to wypisuje
+//        index) wg. wzoru: waga / wzrost2 . Jeżeli wynik jest w przedziale (18,5 - 24,9) to wypisuje
 //        ”waga prawidłowa”, jeżeli poniżej to ”niedowaga”, jeżeli powyżej ”nadwaga”.
 
 
